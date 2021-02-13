@@ -45,7 +45,7 @@ Live demo (Feel free to visit) 👉 : https://eli-natours.herokuapp.com/
 
 ### Reviews Tour
 
-<img src="https://github.com/EliYakubov7/NatoursApp/blob/main/screenshots/map_and_pictures_tour.png" width="700">
+<img src="https://github.com/EliYakubov7/NatoursApp/blob/main/screenshots/reviews_tour.png" width="700">
 
 ### Book Tour
 
