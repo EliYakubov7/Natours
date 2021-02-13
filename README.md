@@ -33,7 +33,7 @@ Live demo (Feel free to visit) 👉 : https://eli-natours.herokuapp.com/
 
 ### Title Tour
 
-<img src="https://github.com/EliYakubov7/Forkify/blob/main/screenshots/title_tour.png" width="700">
+<img src="https://github.com/EliYakubov7/NatoursApp/blob/main/screenshots/title_tour.png" width="700">
 
 ### Information Tour
 
@@ -41,7 +41,7 @@ Live demo (Feel free to visit) 👉 : https://eli-natours.herokuapp.com/
 
 ### Map & Pictures
 
-<img src="https://github.com/EliYakubov7/Forkify/blob/main/screenshots/add_recipe.png" width="700">
+<img src="https://github.com/EliYakubov7/NatoursApp/blob/main/screenshots/map_and_pictures_tour.png" width="700">
 
 ### Reviews Tour
 
