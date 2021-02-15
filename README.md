@@ -1,6 +1,6 @@
 # NatoursApp
 
-Node.js, Express, MongoDB & More
+Node.js, Express, MongoDB & More - Tours Web App
 
 ## Deployed Version
 
