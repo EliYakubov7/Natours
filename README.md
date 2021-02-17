@@ -1,4 +1,4 @@
-# NatoursApp
+# Natours
 
 Book Tour Web App - Node.js, Express, MongoDB & More 
 
