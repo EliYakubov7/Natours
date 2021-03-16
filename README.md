@@ -11,7 +11,7 @@ Live demo (Feel free to visit) 👉 : https://eli-natours.herokuapp.com/
 * Authentication and Authorization
   - Signup, login and logout
 * Tour
-  - Manage booking, check tours map, check users' reviews and rating
+  - Manage booking, check tours map, check user's reviews and rating
 * User profile
   - Update username, photo, email, and password
 * Credit card Payment
